@@ -29,12 +29,8 @@ CryptoBuddy is a beginner-friendly, rule-based chatbot built in Python. It provi
 
 crypto_advisor_bot.py # Main chatbot script
 README.md # Project documentation
+`screenshots` folder for screenshot evidence
 
-yaml
-Copy
-Edit
-
----
 
 ## 🧪 How to Run
 
